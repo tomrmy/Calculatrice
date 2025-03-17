@@ -1,4 +1,4 @@
-document.getElementByI("btn").addEventListener("click",function calculatrice (){
+document.getElementById("btn").addEventListener("click",function calculatrice (){
     let nombregauche = document.getElementById("nombre-gauche").value;
     let nombredroite = document.getElementById("nombre-droite").value;
     let operations = document.getElementById("operations").value;
