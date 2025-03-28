@@ -1,5 +1,13 @@
-Bonjour | Hello
+# Calculatrice Simple
 
-Bienvenue sur le projet calculatrice | Welcome to the calculator project
+Ce projet est une **calculatrice simple** réalisée avec les langages suivants :
 
-C'est une simple calculatrice en JavaScript | It's a simple Javascript calculator 
+## Technologies utilisées
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## Fonctionnalités
+
+- Addition, soustraction, multiplication, division
